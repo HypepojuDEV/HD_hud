@@ -1,3 +1,4 @@
+![Näyttökuva 2024-08-01 130736](https://github.com/user-attachments/assets/38ea42cb-3ac9-497d-acc2-fb378cedb0bf)
 # HD_hud
 ## Hyvä hudi ESX-pohjaisille palvelimille. Näyttää sinun pankkitililläsi olevan rahamäärän sekä käteisen määrän. Näyttää myös id:si sekä työsi ja arvosi.
 ### Tekijä(Discord): hypepoju#0
