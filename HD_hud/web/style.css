@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.hud-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: linear-gradient(145deg, #325f07, #0b40d183);
+    padding: 10px;
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    clip-path: polygon(10% 0%, 100% 0%, 100% 90%, 90% 100%, 0% 100%, 0% 10%);
+    border-radius: 15px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.5);
+}
+
+.hud-logo {
+    width: 100px;
+    height: auto;
+    filter: drop-shadow(2px 2px 5px #000);
+}
+
+.hud-info {
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.hud-item {
+    margin: 5px 0;
+}
+
+.hud-job {
+    background: linear-gradient(145deg, #FFA500, #FF8C00);
+    color: white;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    margin-top: auto;
+    box-shadow: inset 2px 2px 5px rgba(255, 255, 255, 0.2), inset -2px -2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.job-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.job-rank {
+    font-size: 18px;
+}
