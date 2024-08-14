@@ -1,6 +1,6 @@
 # HD_hud
 ## Hyvä hudi ESX-pohjaisille palvelimille. Näyttää sinun pankkitililläsi olevan rahamäärän sekä käteisen määrän. Näyttää myös id:si sekä työsi ja arvosi.
-### Tekijä(Discord): hypepoju#0
+### Tekijä(Discord): hypepoju#0 ja pule_dev
 
 **Asennus:** 
 **1.** *Varmista, että palvelimesi on ESX-pohjainen palvelin.*
